@@ -6,3 +6,8 @@
   </PropertyGroup>
 
 </Project>
+ <ItemGroup>
+    <Reference Include="PontoLib.dll">
+      <HintPath>point.dll</HintPath>
+    </Reference>
+  </ItemGroup>
