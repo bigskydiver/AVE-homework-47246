@@ -1,0 +1,3 @@
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\aula02-unmanaged-static-link\PontoLib\bin\Debug\net5.0\publish\PontoLib.dll
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\aula02-unmanaged-static-link\PontoLib\bin\Debug\net5.0\publish\PontoLib.deps.json
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\aula02-unmanaged-static-link\PontoLib\bin\Debug\net5.0\publish\PontoLib.pdb
