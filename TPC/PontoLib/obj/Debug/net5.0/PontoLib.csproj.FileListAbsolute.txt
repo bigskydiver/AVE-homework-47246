@@ -1,0 +1,12 @@
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC\PontoLib\bin\Debug\net5.0\PontoLib.deps.json
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC\PontoLib\bin\Debug\net5.0\PontoLib.dll
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC\PontoLib\bin\Debug\net5.0\ref\PontoLib.dll
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC\PontoLib\bin\Debug\net5.0\PontoLib.pdb
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC\PontoLib\obj\Debug\net5.0\PontoLib.csprojAssemblyReference.cache
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC\PontoLib\obj\Debug\net5.0\PontoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC\PontoLib\obj\Debug\net5.0\PontoLib.AssemblyInfoInputs.cache
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC\PontoLib\obj\Debug\net5.0\PontoLib.AssemblyInfo.cs
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC\PontoLib\obj\Debug\net5.0\PontoLib.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC\PontoLib\obj\Debug\net5.0\PontoLib.dll
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC\PontoLib\obj\Debug\net5.0\ref\PontoLib.dll
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC\PontoLib\obj\Debug\net5.0\PontoLib.pdb

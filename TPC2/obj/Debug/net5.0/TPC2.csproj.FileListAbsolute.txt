@@ -1,0 +1,16 @@
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\obj\Debug\net5.0\TPC2.csprojAssemblyReference.cache
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\obj\Debug\net5.0\TPC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\obj\Debug\net5.0\TPC2.AssemblyInfoInputs.cache
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\obj\Debug\net5.0\TPC2.AssemblyInfo.cs
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\obj\Debug\net5.0\TPC2.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\bin\Debug\net5.0\TPC2.exe
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\bin\Debug\net5.0\TPC2.deps.json
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\bin\Debug\net5.0\TPC2.runtimeconfig.json
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\bin\Debug\net5.0\TPC2.runtimeconfig.dev.json
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\bin\Debug\net5.0\TPC2.dll
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\bin\Debug\net5.0\ref\TPC2.dll
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\bin\Debug\net5.0\TPC2.pdb
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\obj\Debug\net5.0\TPC2.dll
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\obj\Debug\net5.0\ref\TPC2.dll
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\obj\Debug\net5.0\TPC2.pdb
+C:\Users\Utilizador\OneDrive - Instituto Superior de Engenharia de Lisboa\PC\GitHub\AVE-homework-47246\TPC2\obj\Debug\net5.0\TPC2.genruntimeconfig.cache
