@@ -57,13 +57,7 @@ namespace Logger
 
         private bool ShouldLog(MemberInfo m)
         {
-            /*
-            return (
-               (m.MemberType == MemberTypes.Field || 
-               (m.MemberType == MemberTypes.Method && (m as MethodInfo).GetParameters().Length == 0)) && m.IsDefined(typeof(ToLog),true)
-               );
-               */
-            
+
             return (
                 (m.MemberType == MemberTypes.Field || 
                 (m.MemberType == MemberTypes.Method && (m as MethodInfo).GetParameters().Length == 0 )) && m.IsDefined(typeof(ToLog),true) 
